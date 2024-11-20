@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "jean-jimbo-sonarsource",
+        "projectKey": "jean-jimbo-sonarsource_Towards-Quality-Production-AI-ML-Python-Code"
+    }
+}
